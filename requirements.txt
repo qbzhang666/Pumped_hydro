@@ -18,3 +18,8 @@ streamlit
 pandas
 matplotlib
 ifcopenshell
+streamlit
+pandas
+matplotlib
+plotly
+ifcopenshell
